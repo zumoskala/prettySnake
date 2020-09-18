@@ -1,0 +1,29 @@
+/* https://pl.freepik.com/wektory/tlo' Tło plik wektorowy utworzone przez freepik - pl.freepik.com */
+
+canvas {
+    background-image: url("img/4318112.jpg");
+    background-size: 100%;
+    border: darkgreen solid 2px;
+
+    padding: 0;
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.score_board {
+    margin: 0 auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-family: Montserrat, Arial;
+}
+
+.score {
+    font-size: 25px;
+}
